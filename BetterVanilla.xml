@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="Better Vanilla" Logo="https://media.discordapp.net/attachments/883154737439072316/981346715871367208/logo.png" Description="">
-		<Server Name="Better Vanilla Normal Version" Logo="https://media.discordapp.net/attachments/883154737439072316/981346715871367208/logo.png">
+	<ServerGroup Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/883154737439072316/981346715871367208/logo.png" Description="">
+		<Server Name="Better Vanilla Normal Version" Logo="https://cdn.discordapp.com/attachments/883154737439072316/981346715871367208/logo.png">
 			<Description>
 
 Update A20.5.1 for the Better Vanilla.
@@ -144,7 +144,7 @@ Saxe82
 				<Download>https://dev.azure.com/saxe1982/BetterVanilla/_git/BetterVanilla</Download>
 			</Downloads>
 		</Server>
-		<Server Name="Better Vanilla Easy Version" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png">
+		<Server Name="Better Vanilla Easy Version" Logo="https://cdn.discordapp.com/attachments/883154737439072316/981346715871367208/logo.png">
 			<Description>
 Update A20.5.1 for the Better Vanilla.
 
