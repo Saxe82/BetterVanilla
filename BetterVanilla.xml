@@ -4,71 +4,23 @@
 		<Server Name="Better Vanilla Normal Version" Logo="https://cdn.discordapp.com/attachments/883154737439072316/981346715871367208/logo.png">
 			<Description>
 
-A20.5.2 for the Better Vanilla.
+A20.6.1 (Final) for the Better Vanilla.
 - Attention, This is the Better Vanilla normal version. Here all zombies have the boosted HP
-
 - Attention! Easy Anti Cheat (EAC) must be disabled.
-- Current scores from A20.5.1 can be continued 100%
 
-What's new / different A20.5.2?
-- shamway safe fix
-- new mod for machete/katana (divine blade mod)
-- blessed metal mod slightly weakened
-- blessed metal mod drops slightly reduced
-- Food values reworked (skill master chef is now worthwhile)
-- new POI "ReKrypta" by Redzero (available on newly created maps)
-- EXP multiplier has been expanded
+This is the Better Vanilla Overhaul mod. This mod was made how I like to play 7 Days to Die.
+Since there were a lot of requests, I published the Better Vanilla.
 
-What is the difference to vanilla?
-- Over 1600 new POIs (Combo Pack 48) Bugged buildings or buildings with large FPS drops have been removed (if found)
-- 6 custom maps with the Combo Pack 48 (6k, 8k and 10k)
-- Wandering hordes have been increased
-- Hordes will run until daybreak
-- There is a fax machine where you can get quests by fax (27 fax quests)
-- Added twitch interaction to hordes
-- Performance improvement
-- Wasteland the zombie spawn was changed
-- Very rarely rain, storm and fog
-- Added A19 Farmimng (seeds stay in the ground)
-- Arrows, grenades and ammo have been readjusted
-- Completely revised hunger, thirst, eating system
-- Zombies loot and harvest bar
-- Better vanilla interface
-- Hunger and thirst indicator
-- ESC / Pause screen
-- Mod is supported in English and German
-- 128 horde, 6h days and number of zombies and animals adjustable
-- Max level 3000
-- Starting EQ is in the beginning quests
-- 160 slot inventory
-- 30k item stack (+ blocks/frames)
-- increased zombie spawn
-- Zombie HP display
-- Zombies have new names
-- No screaming zombies from heat and volume
-- Demolishers nerfed and now only come on Horde night
-- More eggs in nests
-- Nests and trash destroy each other after loot
-- Pots in cupboards lootable
-- Autominer
-- Charcoal stove
-- Gas stove that cooks twice as fast with a gas bottle as the campfire
-- 3 slots in the forge
-- Acid and measuring cup craftable
-- Edited tools/weapons (stamina, DMG, speed)
-- 6 pieces weapons/tools/clothing craftable
-- Pocket mods have been adjusted to the inventory size
-- Blessed Metal and Divine Blade mod added
-- Added a katana
-
-...and many little things!
-
-If you have any questions or want to report a bug, just join my discord.
-Discord: https://discord.gg/qdwbN9VW87 
-On the discord there are additional downloads like:
-- the better vanilla walking dead version
+You can read about everything that has changed in my Discord in the Better Vanilla area.
+There are also other downloads in the Discord such as:
+- Better Vanilla Walking Dead Version
 - a zombie navigation
-.. and much more...
+- the Better Vanilla ComboPack 48.1 + pre-made CP maps
+
+I will also help with problems, questions and suggestions as best I can. 
+And the existing community is also very happy to help!
+
+Discord: https://discord.gg/qdwbN9VW87 
 
 Have fun in the Better Vanilla!
 Best Regards, 
@@ -76,71 +28,23 @@ Saxe82
 
 ---------------------------------------------------------------------------
 
-Update A20.5.2 für die Better Vanilla. 
-- Achtung, Dies ist die Better Vanilla normal-Version. Hier haben alle Zombies die angehobene HP
-				
+A20.6.1 (Final) für die Better Vanilla. 
+- Achtung, Dies ist die Better Vanilla Normal-Version. Hier haben alle Zombies die angehobene HP.			
 - Achtung! Easy Anti Cheat (EAC) muss deaktiviert sein.
-- Aktuelle Spielstände aus der A20.5.1 können zu 100% weiter geführt werden
 
-Was ist neu / anders A20.5.2?
-- shamway tresor fix
-- neue Mod für Machete/Katana (Göttliche Klinge Mod)
-- gesegnetes Metall Mod leicht abgeschwächt
-- gesegnetes Metall Mod drops leicht verringert
-- Essen-Werte neu barbeitet (skill Chefkoch lohnt sich nun)
-- neues POI "ReKrypta" von Redzero (bei neu erstellten Maps verfügbar)
-- EXP multiplikator wurde erweitert
+Dies ist die Better Vanilla Overhaul Mod. Diese Mod ist so erstellt wurden, wie ich gerne 7 Days to Die spiele. 
+Da sehr viele Anfragen kamen, habe ich die Better Vanilla veröffentlicht.
 
-Was ist der Unterschied zur Vanilla?
-- über 1600 neue POIs (Combo Pack 48) Verbuggte Gebäude, oder Gebäude mit großen FPS Drops wurden entfernt (soweit gefunden)
-- 6 eigene Karten mit dem Combo Pack 48 (6k, 8k und 10k)
-- Wanderhorden wurden vergrößert
-- Horden werden bis zum Tagesanbruch laufen
-- Es gibt ein Faxgerät wo du Quests per Fax bekommst (27 Fax Questen)
-- Twitch-Interaktion wurden Horden hinzugefügt
-- Performanceverbesserung
-- Wasteland wurde der Zombiespawn verändert
-- Sehr selten Regen, Sturm und Nebel
-- A19 Farmimng hinzugefügt (Saatgut bleibt im Boden)
-- Pfeile, Granaten und Munition wurden neu eingestellt
-- Komplett überarbeitet Hunger, Durst, Esssystem
-- Zombies Loot- und Erntebar
-- Better Vanilla Interface
-- Hunger und Durst Anzeige
-- ESC / Pause-Screen
-- Mod wird auf English und Deutsch unterstützt
-- 128er Horde, 6h Tage und Anzahl Zombies und Tier einstellbar
-- Max Level 3000
-- Start-EQ gibt es in den Anfangsquesten
-- 160 Slot Inventar
-- 30k Itemstack (+ Blöcke/Frames)
-- erhöhter Zombie spawn
-- Zombie HP Anzeige
-- Zombies haben neue Namen
-- Keiner Schreier-Zombies durch Hitze und Lautstärke
-- Demolisher abgeschwächt und kommen nur noch in der Horden-Nacht
-- Mehr Eier in Nestern
-- Nester und Müll zerstören sich nach Loot
-- Töpfe in Schränken lootbar
-- Autominer
-- Holzkohle-Ofen
-- Gas-Herd der mit Gasflasche doppelt so schnell kocht wie das Lagerfeuer
-- 3 Slots in der Schmiede
-- Säure und Messbecher herstellbar
-- Werkzeuge / Waffen bearbeitet (Ausdauer, DMG, speed)
-- 6er Waffen/Werkzeug/Kleidung herstellbar
-- Taschen Mods wurden angepasst auf die Inventargröße
-- Gesegnetes Metall und Göttliche Klinge Mod eingefügt
-- Ein Katana wurde eingefügt
-
-...und viele Kleinigkeiten.
-
-Wenn du Fragen hast oder einen Fehler melden willst, tritt einfach meinem Discord bei.
-Discord: https://discord.gg/qdwbN9VW87 
-Auf dem Discord gibt es zusätzliche downloads wie:
-- die Better Vanilla Walking Dead Version
+Was alles Verändert wurde, könnt ihr in meinem Discord im Bereich Better Vanilla nachlesen.
+Im Discord gibt es außerdem weitere Download wie:
+- Better Vanilla Walking Dead Version
 - eine Zombie Navigation
-.. und vieles mehr...
+- das Better Vanilla ComboPack 48.1 + vorgefertigste CP-Maps
+
+Auch werde ich bei Problemen, Fragen und Anregungen zur Seite stehen, so gut ich kann. 
+Und die vorhandene Community hilft auch sehr gern!				
+
+Discord: https://discord.gg/qdwbN9VW87 
 
 Viel Spaß in der Better Vanilla!
 Mit freundlichen Grüßen, 
